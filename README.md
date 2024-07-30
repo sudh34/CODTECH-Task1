@@ -4,7 +4,7 @@
 
 **Company:** CODTECH IT SOLUTIONS
 
-**ID:** 
+**ID:**CT08DS5187 
 
 **Domain:** PYTHON
 
@@ -25,21 +25,13 @@
 **Objective**
 <br>
 
-The Objective of this project is to create a simple calculator using Python to perform Arithmetic operation.
+The Objective of this project is to create a simple calculator using Python  and its tkinter to perform Arithmetic operation.
 <br>
 
 ***Key Activities***
 
-- **Visualize Projects:** Displaying created projects by user and its Output and sourcecode via Portfolio
-- **Get CV from Portfolio:** We can able to view CV from this Portfolio About page 
-- **Blog post:** Displaying works and posts picture in portfolio
-- **Show Skills:** Displaying Skills of Programmer in programming languages by users
+- **Visualize :** **Displaying simple calculator Application**
+- **Perform Arithmetic operation:** **We can able to perform Arithmetic operation using this calculator app**
+
 
 <br>
-
--***Technologies Used***
-
-- **HTML:** The primary programming language to create this Project.
-- **SCSS:** This style sheets are used to design portfolio as attractive and user friendly.  
-- **JAVASCRIPT:** Used to Perform operation in scrolling and Contact form.
-- **EXPRESS.JS:** Used to manage Projects and Blog posts.
